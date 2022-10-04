@@ -118,7 +118,7 @@
 - Postman
 *[ ] Postman
 - Authentication vs Authorization
-*[x] Authenticcation
+* [x] Authenticcation
 *[ ] Authorization
 
 ## Part 6 (Django)
