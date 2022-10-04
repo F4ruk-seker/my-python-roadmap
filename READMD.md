@@ -38,7 +38,7 @@
 * [ ] best
 ---
 * [x] CMD
-* [x] TERMÝNAL
+* [x] TERMINAL
 * [x] PowerShell
 
 # Part 2 (Databases)
