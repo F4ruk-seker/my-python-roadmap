@@ -4,15 +4,15 @@
 
 ## Part 1 (Development Basics):
 - Python virtual environment (pipenv, virtualenv, pyenv)
-* [x]pipenv
-* [x]virtuakenv
-* [ ]pyenv
+* [x] pipenv
+* [x] virtuakenv
+* [ ] pyenv
 - Effective Python Book
 
 - VCS (Version Control System):
   Git and Github (commits, branches, merges, conflicts, stashing, pull requests)
-* [x]git basic
-* [ ]git middle
+* [x] git basic
+* [ ] git middle
 - IDE/Text Editor:
  Pycharm Pro or VS Code (shortcuts, formatting, integrations, plugins)
  * [x] pycharm
@@ -38,7 +38,7 @@
 * [ ] best
 ---
 * [x] CMD
-* [x] TERM›NAL
+* [x] TERM√ùNAL
 * [x] PowerShell
 
 # Part 2 (Databases)
