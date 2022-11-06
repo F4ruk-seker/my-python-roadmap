@@ -24,7 +24,7 @@ quotation from : https://github.com/HHHMHA/django-roadmap
 * [ ] IPs
 * [ ] WebServers
 * [ ] NATs
-* [ ] SSH
+* [x] SSH
 * [ ] etc
 
 - Linux
@@ -196,9 +196,9 @@ quotation from : https://github.com/HHHMHA/django-roadmap
 * [x] S3
 * [ ] Networks
 - Gunicorn
-* [ ] Gunicorn
+* [x] Gunicorn (middle)
 - Nginx
-* [ ] Nginx
+* [x] Nginx (middle)
 - Microservices
 - Hosting (PAAS, SAAS, IAAS)
 - System Design (a good book is System Design Interview - An Insider's Guide)
