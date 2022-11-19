@@ -51,8 +51,8 @@ quotation from : https://github.com/HHHMHA/django-roadmap
 * [x] ORM
 ---
 * [x] Basic
-* [.] middle
-* [*] best
+* [x] middle
+* [ ] best
 
 ## Part 3 (Software Engineering)
 - Conventional Commits
@@ -71,7 +71,7 @@ quotation from : https://github.com/HHHMHA/django-roadmap
 - Issue Tracking (Github issues, JIRA, Redmine) Learn how to mention issue number in commit message
 - Continues Integration (Jenkins, Travis-CI)
 - pre-commit hooks (black, flake) 
-- .env files and environmental variables 
+- [x] .env files and environmental variables  
 - Logs, and Logging (For Example Sentry)
 
 
