@@ -51,8 +51,8 @@ quotation from : https://github.com/HHHMHA/django-roadmap
 * [x] ORM
 ---
 * [x] Basic
-* [ ] middle
-* [ ] best
+* [.] middle
+* [*] best
 
 ## Part 3 (Software Engineering)
 - Conventional Commits
