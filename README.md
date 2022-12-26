@@ -82,15 +82,15 @@ quotation from : https://github.com/HHHMHA/django-roadmap
 * [ ] SASS
 * [ ] JavaScript
 * [x] Bootstrap
-* [ ] JQuery
+* [x] JQuery
 - REST API
-* [ ] REST API
+* [x] REST API
 - Swagger
 * [ ] Swangger
 - ngrok
 * [x] ngrok
 - GraphQL
-* [ ] GraphQl
+* [*] GraphQl
 - Browser dev tools (elements tab, console, network tab, performance) 
 * [x] elements tab
 * [x] console
