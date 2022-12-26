@@ -83,25 +83,18 @@ quotation from : https://github.com/HHHMHA/django-roadmap
 * [ ] JavaScript
 * [x] Bootstrap
 * [x] JQuery
-- REST API
 * [x] REST API
-- Swagger
 * [ ] Swangger
-- ngrok
 * [x] ngrok
-- GraphQL
-* [*] GraphQl
-- Browser dev tools (elements tab, console, network tab, performance) 
-* [x] elements tab
-* [x] console
-* [x] network tab
+* [ ] GraphQl
+* [x]Browser dev tools (elements tab, console, network tab, performance) 
 
 ## Part 5 (Theory and Tools):
 - Security (XSS, SQL Injection, CSRF, CORS, ...etc)
 * [x] XSS
 * [x] SQL
 * [x] CSRF
-* [ ] CORS
+* [x] CORS
 * [ ] ..etc
 - Symmetric Encryption and Asymmetric Encryption
 * [ ] AS/EN
@@ -110,7 +103,7 @@ quotation from : https://github.com/HHHMHA/django-roadmap
 - Authentication (session, basic, token and jwt token)
 * [x] Session
 * [ ] Basic
-* [ ] Token
+* [x] Token
 * [x] JWT Token
 - Docker, docker-compose
 * [ ] Docker
