@@ -6,7 +6,7 @@ quotation from : https://github.com/HHHMHA/django-roadmap
 - Python virtual environment (pipenv, virtualenv, pyenv)
 * [x] pipenv
 * [x] virtuakenv
-* [ ] pyenv
+* [x] pyenv
 - Effective Python Book
 
 - VCS (Version Control System):
