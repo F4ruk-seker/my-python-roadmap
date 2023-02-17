@@ -42,7 +42,7 @@ quotation from : https://github.com/HHHMHA/django-roadmap
 * [x] PowerShell
 
 # Part 2 (Databases)
-- RDB (PostgreSQL, MySQL/MariaDB, SQLite)
+- [x] RDB (PostgreSQL, MySQL/MariaDB, SQLite)
 * [x] SQLite
 
 - NoSQL (MongoDB, Redis)
