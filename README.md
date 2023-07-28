@@ -147,8 +147,8 @@ quotation from : https://github.com/HHHMHA/django-roadmap
   - django-push-notifications
   - django-solo
   - django-treebeard
-  - PyJWT
-  - django-redis
+  [x] PyJWT
+  [x] django-redis
   - django-wkhtmltopdf
   - django-import-export
   - sentry-sdk
@@ -164,9 +164,9 @@ quotation from : https://github.com/HHHMHA/django-roadmap
   - pytest-django
   - pytest-cov
 
-- custom management commands 
-- custom migrations 
-* [ ] management commands 
+custom management commands 
+custom migrations 
+* [x] management commands 
 * [x] migrations 
 - permissions 
 * [ ] permissions
@@ -176,12 +176,11 @@ quotation from : https://github.com/HHHMHA/django-roadmap
 * [x] Django Rest Framework
 - Wagtail 
 * [ ] Wagtail
-- Django cms
 * [ ] Django cms
 
 ## Part 7 (Advanced Concepts & Devops & Production):
 - Elastic Stack
-- Caching with redis
+* [x] Caching with redis
 - Asynchronous programming (celery, rabbit mq, django rq, Kafka) 
 - Linux cron jobs
 - AWS Basics (S3, EC2, Networks)
